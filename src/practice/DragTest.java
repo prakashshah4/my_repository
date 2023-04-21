@@ -24,5 +24,7 @@ public class DragTest {
 		
 		
 		driver.close();
+		
+		// pull
 }
 }
